@@ -13,7 +13,7 @@ const NavBar = () => {
               <span className="icon-bar"/>
               <span className="icon-bar"/>
             </button>
-            <Link to="/" className="navbar-brand navbrand-wrapper">React Redux Starter Kit</Link>
+            <Link to="/" className="navbar-brand navbrand-wrapper">LandMark Gram</Link>
           </div>
 
           <div className="collapse navbar-collapse" id="navbar-collapse">

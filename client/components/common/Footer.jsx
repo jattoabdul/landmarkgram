@@ -8,7 +8,7 @@ function getCurrentYear () {
 const Footer = () => {
   return (
     <div className="footer text-center">
-      <p>&copy; {getCurrentYear()}. React Starter Kit by <a target="_blank" href="https://twitter.com/kingisaac95">@kingisaac95</a></p>
+      <p>&copy; {getCurrentYear()}. LandmarkGram by <a target="_blank" href="https://twitter.com/jattorize">@jattorize</a></p>
     </div>
   );
 };
